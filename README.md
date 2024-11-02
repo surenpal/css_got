@@ -1,2 +1,1 @@
-# css_got
-css_got
+#classes & id`s
